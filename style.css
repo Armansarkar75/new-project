@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+p{
+    color: darkorange;
+    border: solid darkorchid;
+    border-radius: 5px;
+    margin: 20px
+}
+.bd{
+    color: crimson;
+}
+#dd{
+    color: darkgreen;
+}
